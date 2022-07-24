@@ -1,2 +1,2 @@
 # odin-recipes
-I am putting into practice the HTML knowldge I have aquired thus far.
+I am putting into practice the HTML knowldge I have aquired so far. This is a basic recipe website I built using text based elements, lists, links, and images.  Additionally, I used git commands to commit and push the project to GitHub.
